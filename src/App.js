@@ -1,5 +1,11 @@
+import ButtonToggle from './components/ButtonToggle';
+
 function App() {
-    return <div className="App"></div>;
+    return (
+        <div className="App">
+            <ButtonToggle />
+        </div>
+    );
 }
 
 export default App;

@@ -13,6 +13,9 @@ function Navbar() {
                 <li>
                     <a href="/simple-counter">Simple Counter</a>
                 </li>
+                <li>
+                    <a href="/list">List</a>
+                </li>
             </ul>
         </nav>
     );

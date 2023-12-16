@@ -1,11 +1,7 @@
-import ButtonToggle from './components/ButtonToggle';
+import Navbar from './components/Navbar';
 
 function App() {
-    return (
-        <div className="App">
-            <ButtonToggle />
-        </div>
-    );
+    return <Navbar />;
 }
 
 export default App;

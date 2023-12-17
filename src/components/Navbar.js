@@ -22,9 +22,6 @@ function Navbar() {
                 <li>
                     <a href="/tic-tac-toe">Tic Tac Toe</a>
                 </li>
-                <li>
-                    <a href="/html-elements">HTML Elements</a>
-                </li>
             </ul>
         </nav>
     );

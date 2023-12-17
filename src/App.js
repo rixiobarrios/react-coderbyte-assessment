@@ -4,7 +4,6 @@ import SimpleCounter from './components/SimpleCounter';
 import List from './components/List';
 import PhoneBook from './components/PhoneBook';
 import TicTacToe from './components/TicTacToe';
-import HTMLElements from './components/HTMLElements';
 import Home from './components/Home';
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
             <Route path="/list" element={<List />} />
             <Route path="/phone-book" element={<PhoneBook />} />
             <Route path="/tic-tac-toe" element={<TicTacToe />} />
-            <Route path="/html-elements" element={<HTMLElements />} />
         </Routes>
     );
 }

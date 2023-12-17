@@ -12,7 +12,7 @@ function List() {
     }
 
     return (
-        <div>
+        <div className="solution">
             <h1>List</h1>
             <ul>
                 {list.map((item, index) => (
